@@ -9,7 +9,7 @@ public class Main {
 		objSD.display();
 	}
 	private static void displayGreetings(){
-		System.out.println("welcome to Sales data");
+		System.out.println("welcome to SALES DATA");
 	}
 	}
 
